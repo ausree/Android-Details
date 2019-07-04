@@ -1,0 +1,4 @@
+#Mon Jul 01 01:52:11 IST 2019
+base.0=C\:\\Users\\Ausree\\AndroidStudioProjects\\RealmRecyclerView2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
